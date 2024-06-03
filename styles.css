@@ -1,0 +1,125 @@
+html {
+    box-sizing: border-box;
+    color: white;
+}
+
+*, *::after, *::before {
+    box-sizing: inherit;
+}
+
+body {
+    background-color: #16181C;
+    line-height: 1.5rem;
+    font-family: overpass;
+}
+
+p {
+    color: gray;
+}
+
+.rating-card, .thankyou-card {
+    width: 400px;
+    height: 400px;
+    border-radius: 25px;
+    background-color: #222930;
+    margin-top: 20vh;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px 30px;
+}
+
+.thankyou-card {
+    text-align: center;
+}
+
+.thankyou-img {
+    margin: auto;
+    display: block;
+}
+
+.selection-btn {
+    margin: 25px auto auto auto;
+    height: 30px;
+    width: 180px;
+    color: orange;
+    border-radius: 25px;
+}
+
+.thankyou-header {
+    margin-top: 45px;
+}
+
+.card-header {
+    color: white;
+    margin-top: 34px;
+}
+
+.btns-container {
+    margin-top: 28px;
+}
+
+.star-container, button {
+    background-color: #2B343D;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+button {
+    display: inline-block;
+    margin-right: 24px;
+    border: none;
+    color: white;
+    font-family: inherit;
+}
+
+button:last-child {
+    margin-right: 0px;
+}
+
+.star-icon {
+    padding-top: 13px;
+}
+
+.submit-btn-container {
+    margin-top: 30px;
+}
+
+.submit-btn {
+    background-color: orange;
+    color: #222930;
+    width: 99%;
+    margin: 0px;
+    display: block;
+    border-radius: 25px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    border: none;
+}
+
+.btns-container button:hover, .submit-btn:hover {
+    cursor: pointer;
+}
+
+.btns-container button:active {
+    background-color: orange;
+    color: #222930;
+}
+
+.submit-btn:active {
+    background-color: white;
+}
+
+.active {
+    background-color: white;
+    color: #222930;
+}
+
+.hidden {
+    display: none;
+}
+
+.attribution {
+    margin-top: 20px;
+}
