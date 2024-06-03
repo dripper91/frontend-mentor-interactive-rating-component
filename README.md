@@ -14,9 +14,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -31,7 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/Screenshot%202024-06-02%20at%2019-15-56%20Frontend%20Mentor%20Interactive%20rating%20component.png)
+![](./images/Screenshot%202024-06-02%20at%2019-48-49%20Frontend%20Mentor%20Interactive%20rating%20component.png)
+![](./images/Screenshot%202024-06-02%20at%2019-49-01%20Frontend%20Mentor%20Interactive%20rating%20component.png)
 
 ### Links
 
@@ -40,7 +38,7 @@ Users should be able to:
 
 ## My process
 
-This is a non-responsive/desktop solution for the interactive rating component challenge at Frontend Mentor. I learned most of my front end knowledge from the Free Code Camp "Front End Web Dev" tutorial by Zach GOllwitzer:
+This is a non-responsive/desktop solution for the interactive rating component challenge at Frontend Mentor. I learned most of my front end knowledge from the Free Code Camp "Front End Web Dev" tutorial by Zach Gollwitzer:
 https://www.youtube.com/watch?v=zJSY8tbf_ys&t=59708s
 
 ### Built with
@@ -52,47 +50,14 @@ https://www.youtube.com/watch?v=zJSY8tbf_ys&t=59708s
 
 In this challenge, I used a css class "hidden" in conjunction with event listeners to toggle elements to be hidden or not hidden.
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+In the future I hope to make more responsive web pages and continue to do cool stuff with JS.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [Frontend Web Development Bootcamp Course (JavaScript, HTML, CSS)](https://www.youtube.com/watch?v=zJSY8tbf_ys&t=59708s) - Amazing course from FreeCodeCamp. Zach is a great teacher and developer.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-myself
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+- Frontend Mentor - [@dripper91](https://www.frontendmentor.io/profile/dripper91)
