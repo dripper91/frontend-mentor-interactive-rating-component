@@ -98,22 +98,19 @@ button:last-child {
     border: none;
 }
 
-.btns-container button:hover, .submit-btn:hover {
-    cursor: pointer;
+button.active, button:focus, button:focus:hover {
+    background-color: white;
+    color: #222930
 }
 
-.btns-container button:active {
+button:hover, .submit-btn:hover {
+    cursor: pointer;
     background-color: orange;
     color: #222930;
 }
 
 .submit-btn:active {
     background-color: white;
-}
-
-.active {
-    background-color: white;
-    color: #222930;
 }
 
 .hidden {
